@@ -38,8 +38,6 @@
 [Firezone](https://www.firezone.dev/?utm_source=readme) is an open source
 platform to securely manage remote access for any-sized organization. Unlike
 most VPNs, Firezone takes a granular, least-privileged approach to access
-management with group-based policies that control access to individual
-applications, entire subnets, and everything in between.
 
 <p align="center">
   <img width="1439" alt="architecture" src="https://github.com/firezone/firezone/assets/167144/48cd6a1e-2f3f-4ca7-969a-fc5b33e13d1c">
